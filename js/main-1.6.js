@@ -90,4 +90,12 @@ $(function() {
 	});
 
     $('figure.responsive-image').picture();
+
+    $("#slides").slidesjs({
+      width: 840,
+      height: 628,
+      play: { auto: true, active: false, interval: 3000 },
+      navigation: {
+      active: true }
+    });
 });
