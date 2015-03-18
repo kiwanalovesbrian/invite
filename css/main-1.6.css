@@ -331,6 +331,10 @@ section h1 {
     font-size: 2.6em;
 
 }
+section .date, section span {
+    font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 0.65em;
+}
 section h2 {
     font-size: 1.1em;
     line-height: 120%;
